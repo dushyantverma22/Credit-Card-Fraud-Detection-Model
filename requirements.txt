@@ -4,3 +4,8 @@ numpy
 matplotlib
 seaborn
 scikit-learn
+scipy
+comet_ml
+python-dotenv
+imblearn
+statsmodels
